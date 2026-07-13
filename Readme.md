@@ -2,7 +2,7 @@
 
 ###  Commands in linux
 
-#### File creation and updating ´touch´ and 'nano'
+#### File creation and updating `touch` and `nano`
 * Create file: *touch*
 examples
 
